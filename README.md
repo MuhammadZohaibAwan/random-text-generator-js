@@ -1,2 +1,2 @@
-# random-text-generator-js
+# Random-text-generator-js
 Lorem-Ipsum-Generator-Vanilla-JS
